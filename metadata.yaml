@@ -1,0 +1,25 @@
+_repo: She-Stands-Accused_488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacClure, Victor
+    birthdate: 1887
+    deathdate: 1963
+    gutenberg_agent_id: '261'
+    url: http://www.gutenberg.org/2009/agents/261
+description: ''
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Biography'
+- !lcc 'HV'
+- !lcsh 'Female offenders -- Biography'
+- GITenberg
+title: She Stands Accused
+url: http://www.gutenberg.org/ebooks/488
