@@ -1,5 +1,8 @@
 _repo: She-Stands-Accused_488
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacClure, Victor
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '261'
     url: http://www.gutenberg.org/2009/agents/261
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/488#She-Stands-Accused
 gutenberg_issued: '1996-04-01'
 gutenberg_type: Text
 identifiers:
